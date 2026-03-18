@@ -24,6 +24,7 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 5. Print all rows of Pascal’s Triangle.
 6. End the program.
 
+
 ---
 
 ## 🧪 Program
